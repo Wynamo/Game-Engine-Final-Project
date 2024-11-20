@@ -392,7 +392,7 @@ Transform:
   m_GameObject: {fileID: 330585543}
   serializedVersion: 2
   m_LocalRotation: {x: -0.092295796, y: -0.70105743, z: -0.09229579, w: 0.7010575}
-  m_LocalPosition: {x: 22.19, y: 2.78, z: 0}
+  m_LocalPosition: {x: 21.92, y: 2.39, z: 0.81}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -472,7 +472,7 @@ Light:
   m_Type: 1
   m_Shape: 0
   m_Color: {r: 0.005606967, g: 0.3500996, b: 0.3962264, a: 1}
-  m_Intensity: 3.5
+  m_Intensity: 7.77
   m_Range: 10
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
@@ -515,7 +515,7 @@ Light:
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 1, y: 1}
   m_BounceIntensity: 1
-  m_ColorTemperature: 6666
+  m_ColorTemperature: 8372
   m_UseColorTemperature: 1
   m_BoundingSphereOverride: {x: 0, y: 0, z: 0, w: 0}
   m_UseBoundingSphereOverride: 0
@@ -530,13 +530,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 410087039}
   serializedVersion: 2
-  m_LocalRotation: {x: -0.0036420117, y: -0.25881723, z: -0.0009758738, w: 0.965919}
+  m_LocalRotation: {x: 0.016990853, y: -0.9975341, z: 0.051762324, w: 0.044246256}
   m_LocalPosition: {x: 0, y: 3, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: -0.432, y: -30, z: 0}
+  m_LocalEulerAnglesHint: {x: 6.014, y: -175.009, z: -1.689}
 --- !u!114 &410087042
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6301,102 +6301,102 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: ed4797d78dba10f408ddf1e65c97dcfb,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 17.62
+      value: 17.774084
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: ed4797d78dba10f408ddf1e65c97dcfb,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.7
+      value: 1.7061028
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: ed4797d78dba10f408ddf1e65c97dcfb,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0.05
+      value: 0.04481469
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: ed4797d78dba10f408ddf1e65c97dcfb,
         type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.7071068
+      value: 0.7660658
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: ed4797d78dba10f408ddf1e65c97dcfb,
         type: 3}
       propertyPath: m_LocalRotation.x
-      value: -0
+      value: -0.026955124
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: ed4797d78dba10f408ddf1e65c97dcfb,
         type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0.70710677
+      value: 0.641299
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: ed4797d78dba10f408ddf1e65c97dcfb,
         type: 3}
       propertyPath: m_LocalRotation.z
-      value: -0
+      value: 0.033946652
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: ed4797d78dba10f408ddf1e65c97dcfb,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
+      value: -4.867
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: ed4797d78dba10f408ddf1e65c97dcfb,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: 90
+      value: 79.825
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: ed4797d78dba10f408ddf1e65c97dcfb,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
+      value: 1.003
       objectReference: {fileID: 0}
     - target: {fileID: 810495564201123049, guid: ed4797d78dba10f408ddf1e65c97dcfb,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0.017452892
+      value: -0.14210534
       objectReference: {fileID: 0}
     - target: {fileID: 810495564201123049, guid: ed4797d78dba10f408ddf1e65c97dcfb,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.0038958788
+      value: 0.011382222
       objectReference: {fileID: 0}
     - target: {fileID: 810495564201123049, guid: ed4797d78dba10f408ddf1e65c97dcfb,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0.112781525
+      value: 0.08838655
       objectReference: {fileID: 0}
     - target: {fileID: 810495564201123049, guid: ed4797d78dba10f408ddf1e65c97dcfb,
         type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.9706596
+      value: 0.98430866
       objectReference: {fileID: 0}
     - target: {fileID: 810495564201123049, guid: ed4797d78dba10f408ddf1e65c97dcfb,
         type: 3}
       propertyPath: m_LocalRotation.x
-      value: -0.021275785
+      value: -0.011886652
       objectReference: {fileID: 0}
     - target: {fileID: 810495564201123049, guid: ed4797d78dba10f408ddf1e65c97dcfb,
         type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0.23923555
+      value: 0.1711779
       objectReference: {fileID: 0}
     - target: {fileID: 810495564201123049, guid: ed4797d78dba10f408ddf1e65c97dcfb,
         type: 3}
       propertyPath: m_LocalRotation.z
-      value: -0.0115566915
+      value: -0.04115099
       objectReference: {fileID: 0}
     - target: {fileID: 810495564201123049, guid: ed4797d78dba10f408ddf1e65c97dcfb,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
-      value: -2.05
+      value: -0.534
       objectReference: {fileID: 0}
     - target: {fileID: 810495564201123049, guid: ed4797d78dba10f408ddf1e65c97dcfb,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: 27.725
+      value: 19.754
       objectReference: {fileID: 0}
     - target: {fileID: 810495564201123049, guid: ed4797d78dba10f408ddf1e65c97dcfb,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
-      value: -1.87
+      value: -4.881
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: ed4797d78dba10f408ddf1e65c97dcfb,
         type: 3}
@@ -6801,7 +6801,7 @@ ParticleSystem:
       serializedVersion: 2
       minMaxState: 0
       minColor: {r: 1, g: 1, b: 1, a: 1}
-      maxColor: {r: 1, g: 1, b: 1, a: 1}
+      maxColor: {r: 0.40837488, g: 0.528042, b: 0.6509434, a: 0.85882354}
       maxGradient:
         serializedVersion: 2
         key0: {r: 1, g: 1, b: 1, a: 1}
