@@ -2677,15 +2677,15 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 2029880513}
-        m_TargetAssemblyTypeName: OptionsButtonCameraAnimation, Assembly-CSharp
-        m_MethodName: PlayCameraAnimation
-        m_Mode: 1
+        m_TargetAssemblyTypeName: CameraAnimatorController, Assembly-CSharp
+        m_MethodName: PlayAnimation
+        m_Mode: 5
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 1
           m_FloatArgument: 0
-          m_StringArgument: anim
+          m_StringArgument: PlayCameraMovement
           m_BoolArgument: 0
         m_CallState: 2
       - m_Target: {fileID: 647654964}
@@ -3031,7 +3031,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: BackAnim
+          m_StringArgument: PlayBackAnim
           m_BoolArgument: 0
         m_CallState: 2
       - m_Target: {fileID: 869548743}
